@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='Panda'
+include ':ble-coroutine'
+project(':ble-coroutine').projectDir=new File(settingsDir, '../BLE Test/ble-coroutine')

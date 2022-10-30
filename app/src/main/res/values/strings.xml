@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Panda</string>
+    <string name="coffee">Coffee</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="tea">Tea</string>
+    <string name="test_mode">Test mode</string>
+    <string name="lights_on">Lights on</string>
+    <string name="lights_off">Lights off</string>
+</resources>
